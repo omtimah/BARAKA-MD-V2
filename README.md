@@ -30,15 +30,9 @@
   <a href="https://github.com/Barakabegaa/BARAKA-MD-V2/stargazers">
     <img src="https://img.shields.io/github/stars/Barakabegaa/BARAKA-MD-V2?style=social">
       
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
+
   
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-yellow?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-
-
-## `BOT FEATURES`
-
-
-
+## _`BARAKA-MD-V2 FEATURES`_
 
 
 | Feature                          | Description                                             | Available    | Version    |
@@ -55,33 +49,21 @@
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
 
 
-
-
-
-
-
-
-
-
-
-
-
-## `INSTALLATION METHODS`🛠️
+## _`INSTALLATION METHODS`_ 🛠️
 
 1. Fork the repo
     <br>
 <a href='https://github.com/Barakabegaa/BARAKA-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+
 2. Get session id by (SCANNING QR1)
     <br>
-<a href='https://baraka-md-code3-05ea03f5fe2c.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://baraka-md-v2-7e1ee3b2551a.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 
 2. Get session id by (PAIRING CODE2)
     <br>
-<a href='https://baraka-md-code3-05ea03f5fe2c.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-
-
+<a href='https://baraka-md-v2-7e1ee3b2551a.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -92,11 +74,9 @@
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
-
 2. Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Barakabegaa/BARAKA-MD-' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
 
 
 #### DEPLOY TO REPLIT
@@ -109,8 +89,7 @@
 2. Now Deploy
     <br>
     <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
+    
 
 #### DEPLOY TO RENDER
 
@@ -118,10 +97,10 @@
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+
 2. Now Deploy
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
 
 
 #### DEPLOY TO RAILWAY
@@ -130,38 +109,46 @@
     <br>
 <a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
+
 2. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
 
+#### DEPLOY TO OKTETO
+
+1. If You don't have a account in Okteto. Create a account.
+    <br>
+<a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 
 
-[![Whats-App](https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L8TDJ3U6Ca1IlGlZaEYyeu)
+2. Now Deploy
+    <br>
+<a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 
 
+#### DEPLOY TO COOLIFY
+
+1. If You don't have a account in Coolify. Create a account.
+    <br>
+<a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
 
-<a aria-label="Join our chats" href="https://wa.me/255762190568?text=𝐇𝐞𝐲 𝐦𝐫...𝐛𝐚𝐫𝐚𝐤𝐚 𝐢 𝐧𝐞𝐞𝐝 𝐲𝐨𝐮𝐫 𝐡𝐞𝐥𝐩 🙏" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+2. Now Deploy
+    <br>
+<a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
 
+#### DEPLOY TO MONGENIUS
 
+1. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
- 
-<a href="https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-
-
-
-
-
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
@@ -175,7 +162,6 @@
 - Who Helping Me
 - Who Using This Bot
 - Support Me By Follow On My IG [IG Account](https://www.instagram.com/_______baraka1?igsh=MThjeDNocGYzZWZlZQ==)
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
