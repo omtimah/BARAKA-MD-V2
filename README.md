@@ -49,7 +49,7 @@
 | Auto/View once commands     | remove photo and video from lock            | ✅           | 3.0    |
 
 
-## _`INSTALLATION METHODS`_ 🛠️
+## _`INSTALLATION METHODS`_
 
 1. Fork the repo
     <br>
